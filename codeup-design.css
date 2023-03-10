@@ -1,0 +1,16 @@
+@media screen and (max-width: 576px) {
+    #right-col {
+        display: none;
+    }
+    #circ-col-1, #circ-col-2 {
+        display: flex;
+        justify-content: center;
+        margin-left: 50px;
+    }
+    #circ-col-2 {
+        margin-top: 35px;
+    }
+    .circ {
+        width: 120px;
+    }
+}
