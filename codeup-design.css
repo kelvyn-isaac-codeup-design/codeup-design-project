@@ -13,4 +13,17 @@
     .circ {
         width: 120px;
     }
+    .hero-img,{
+        margin-top: 10px;
+    }
+    .hero-img1 {
+        margin-top: 100px;
+    }
+    hr {
+        display: none;
+    }
+    .selected {
+        margin-top: 40px;
+        justify-content: center;
+    }
 }
